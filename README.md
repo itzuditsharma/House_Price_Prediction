@@ -25,3 +25,6 @@ This web application predicts house prices in Bangalore based on various paramet
 # UI:
 ![image](https://github.com/user-attachments/assets/dc6d9d64-ac4e-4ae6-84eb-9fbb2ca93c00)
 
+![image](https://github.com/user-attachments/assets/d4e2baf3-5da6-4ae4-ad2b-848c0239032e)
+
+
