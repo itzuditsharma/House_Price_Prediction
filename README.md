@@ -21,3 +21,7 @@ This web application predicts house prices in Bangalore based on various paramet
 ## Backend
 - server.py: Flask backend that serves the machine learning model and handles API requests.
 - artifacts/: Directory containing the trained model and other necessary files.
+
+# UI:
+![image](https://github.com/user-attachments/assets/dc6d9d64-ac4e-4ae6-84eb-9fbb2ca93c00)
+
